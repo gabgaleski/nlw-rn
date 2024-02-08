@@ -48,7 +48,7 @@ export default function Cart() {
         \n Valor total: ${total}
         `
 
-        Alert.alert("Pedido Enviado", "Seu pedido foi enviado")
+        Alert.alert("Pedido Enviado!", message)
 
         cartStore.clear()
         navigation.goBack()
