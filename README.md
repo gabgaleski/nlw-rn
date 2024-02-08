@@ -4,7 +4,7 @@
 
 # :camera_flash: Imagens do Projeto
 
- <br>
+ <img height="600" alt="Imagem do aplicativo" src="./img/download.png">
 
 <br>
 
